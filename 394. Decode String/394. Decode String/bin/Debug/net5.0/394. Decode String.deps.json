@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "394. Decode String/1.0.0": {
+        "runtime": {
+          "394. Decode String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "394. Decode String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

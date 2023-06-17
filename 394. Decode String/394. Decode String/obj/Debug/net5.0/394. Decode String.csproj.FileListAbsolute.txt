@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\394. Decode String\394. Decode String\bin\Debug\net5.0\394. Decode String.exe
+C:\Users\User\source\repos\394. Decode String\394. Decode String\bin\Debug\net5.0\394. Decode String.deps.json
+C:\Users\User\source\repos\394. Decode String\394. Decode String\bin\Debug\net5.0\394. Decode String.runtimeconfig.json
+C:\Users\User\source\repos\394. Decode String\394. Decode String\bin\Debug\net5.0\394. Decode String.runtimeconfig.dev.json
+C:\Users\User\source\repos\394. Decode String\394. Decode String\bin\Debug\net5.0\394. Decode String.dll
+C:\Users\User\source\repos\394. Decode String\394. Decode String\bin\Debug\net5.0\ref\394. Decode String.dll
+C:\Users\User\source\repos\394. Decode String\394. Decode String\bin\Debug\net5.0\394. Decode String.pdb
+C:\Users\User\source\repos\394. Decode String\394. Decode String\obj\Debug\net5.0\394. Decode String.csprojAssemblyReference.cache
+C:\Users\User\source\repos\394. Decode String\394. Decode String\obj\Debug\net5.0\394. Decode String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\394. Decode String\394. Decode String\obj\Debug\net5.0\394. Decode String.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\394. Decode String\394. Decode String\obj\Debug\net5.0\394. Decode String.AssemblyInfo.cs
+C:\Users\User\source\repos\394. Decode String\394. Decode String\obj\Debug\net5.0\394. Decode String.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\394. Decode String\394. Decode String\obj\Debug\net5.0\394. Decode String.dll
+C:\Users\User\source\repos\394. Decode String\394. Decode String\obj\Debug\net5.0\ref\394. Decode String.dll
+C:\Users\User\source\repos\394. Decode String\394. Decode String\obj\Debug\net5.0\394. Decode String.pdb
+C:\Users\User\source\repos\394. Decode String\394. Decode String\obj\Debug\net5.0\394. Decode String.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\654. Maximum Binary Tree\654. Maximum Binary Tree\bin\Debug\net5.0\654. Maximum Binary Tree.exe
+C:\Users\User\source\repos\654. Maximum Binary Tree\654. Maximum Binary Tree\bin\Debug\net5.0\654. Maximum Binary Tree.deps.json
+C:\Users\User\source\repos\654. Maximum Binary Tree\654. Maximum Binary Tree\bin\Debug\net5.0\654. Maximum Binary Tree.runtimeconfig.json
+C:\Users\User\source\repos\654. Maximum Binary Tree\654. Maximum Binary Tree\bin\Debug\net5.0\654. Maximum Binary Tree.runtimeconfig.dev.json
+C:\Users\User\source\repos\654. Maximum Binary Tree\654. Maximum Binary Tree\bin\Debug\net5.0\654. Maximum Binary Tree.dll
+C:\Users\User\source\repos\654. Maximum Binary Tree\654. Maximum Binary Tree\bin\Debug\net5.0\ref\654. Maximum Binary Tree.dll
+C:\Users\User\source\repos\654. Maximum Binary Tree\654. Maximum Binary Tree\bin\Debug\net5.0\654. Maximum Binary Tree.pdb
+C:\Users\User\source\repos\654. Maximum Binary Tree\654. Maximum Binary Tree\obj\Debug\net5.0\654. Maximum Binary Tree.csprojAssemblyReference.cache
+C:\Users\User\source\repos\654. Maximum Binary Tree\654. Maximum Binary Tree\obj\Debug\net5.0\654. Maximum Binary Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\654. Maximum Binary Tree\654. Maximum Binary Tree\obj\Debug\net5.0\654. Maximum Binary Tree.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\654. Maximum Binary Tree\654. Maximum Binary Tree\obj\Debug\net5.0\654. Maximum Binary Tree.AssemblyInfo.cs
+C:\Users\User\source\repos\654. Maximum Binary Tree\654. Maximum Binary Tree\obj\Debug\net5.0\654. Maximum Binary Tree.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\654. Maximum Binary Tree\654. Maximum Binary Tree\obj\Debug\net5.0\654. Maximum Binary Tree.dll
+C:\Users\User\source\repos\654. Maximum Binary Tree\654. Maximum Binary Tree\obj\Debug\net5.0\ref\654. Maximum Binary Tree.dll
+C:\Users\User\source\repos\654. Maximum Binary Tree\654. Maximum Binary Tree\obj\Debug\net5.0\654. Maximum Binary Tree.pdb
+C:\Users\User\source\repos\654. Maximum Binary Tree\654. Maximum Binary Tree\obj\Debug\net5.0\654. Maximum Binary Tree.genruntimeconfig.cache
