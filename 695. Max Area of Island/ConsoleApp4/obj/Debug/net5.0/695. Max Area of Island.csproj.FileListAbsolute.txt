@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\695. Max Area of Island.exe
+C:\Users\User\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\695. Max Area of Island.deps.json
+C:\Users\User\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\695. Max Area of Island.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\695. Max Area of Island.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\695. Max Area of Island.dll
+C:\Users\User\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ref\695. Max Area of Island.dll
+C:\Users\User\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\695. Max Area of Island.pdb
+C:\Users\User\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\695. Max Area of Island.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\695. Max Area of Island.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\695. Max Area of Island.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\695. Max Area of Island.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\695. Max Area of Island.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\695. Max Area of Island.dll
+C:\Users\User\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ref\695. Max Area of Island.dll
+C:\Users\User\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\695. Max Area of Island.pdb
+C:\Users\User\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\695. Max Area of Island.genruntimeconfig.cache
